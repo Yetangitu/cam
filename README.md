@@ -1,3 +1,5 @@
+[mirror only - development is done on my own git server]
+
 # cam
 
 Cam controls cameras, or is supposed to. It is supposed to be more useable than the abominable web interface these things tend to come with. It is a simple script to control Xiongmai and related cameras using the `anyka_ipc` command daemon and `NETSDK` interface. It might work on others as well, it might not work at all. It works for me, mostly.
